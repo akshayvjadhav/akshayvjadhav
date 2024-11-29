@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Akshay Jadhav
-- 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me LinkedIn- https://www.linkedin.com/in/akshay-jadhav1115/
 
